@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="uml" type="PlantUML file" />
+      <mapping ext="uml" type="PLAIN_TEXT" />
+      <removed_mapping ext="uml" approved="true" type="UML" />
     </extensionMap>
   </component>
 </application>
